@@ -1,3 +1,5 @@
 1.veriyüklenmesi.py
 2.eksikveri.py
 3.kategorikveriler.py
+4.dataframe.py
+5.veriOlcekleme.py
